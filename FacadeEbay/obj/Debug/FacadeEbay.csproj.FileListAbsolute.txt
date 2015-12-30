@@ -1,0 +1,9 @@
+d:\(documents)\documents\visual studio 2012\Projects\FacadeEbay\FacadeEbay\obj\Debug\FacadeEbay.csprojResolveAssemblyReference.cache
+d:\(documents)\documents\visual studio 2012\Projects\FacadeEbay\FacadeEbay\bin\Debug\FacadeEbay.dll
+d:\(documents)\documents\visual studio 2012\Projects\FacadeEbay\FacadeEbay\bin\Debug\FacadeEbay.pdb
+d:\(documents)\documents\visual studio 2012\Projects\FacadeEbay\FacadeEbay\bin\Debug\WebDriver.dll
+d:\(documents)\documents\visual studio 2012\Projects\FacadeEbay\FacadeEbay\bin\Debug\WebDriver.Support.dll
+d:\(documents)\documents\visual studio 2012\Projects\FacadeEbay\FacadeEbay\bin\Debug\WebDriver.xml
+d:\(documents)\documents\visual studio 2012\Projects\FacadeEbay\FacadeEbay\bin\Debug\WebDriver.Support.xml
+d:\(documents)\documents\visual studio 2012\Projects\FacadeEbay\FacadeEbay\obj\Debug\FacadeEbay.dll
+d:\(documents)\documents\visual studio 2012\Projects\FacadeEbay\FacadeEbay\obj\Debug\FacadeEbay.pdb
