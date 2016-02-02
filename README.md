@@ -1,5 +1,8 @@
 # FacadeEbay
 
+The primary goal of the below tests is going to be to purchase different items from Ebay
+
+
 The classes and objects participating in this pattern are:
 
 Facade – Holds methods that combine actions executed on multiple pages.
