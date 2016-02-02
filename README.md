@@ -6,9 +6,15 @@ The primary goal of the below tests is going to be to purchase different items f
 Ready Scenarios:
 
 1)Purchase_Casio_GShock
+
 2)Purchase_WhiteOpticalKeyboard
 
 Steps:
+
+1)Navigate to Item’s Page
+2)Validate the price
+3)Click Buy It Now button
+4)On the SignIn page, click Continue as a guest
 
 
 
