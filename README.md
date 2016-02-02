@@ -1,6 +1,16 @@
-# FacadeEbay
+# FacadeEbay using Selenium and VisualStudio c#
 
+Requirements:
 The primary goal of the below tests is going to be to purchase different items from Ebay
+
+Ready Scenarios:
+
+1)Purchase_Casio_GShock
+2)Purchase_WhiteOpticalKeyboard
+
+Steps:
+
+
 
 
 The classes and objects participating in this pattern are:
