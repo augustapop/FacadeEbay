@@ -35,10 +35,12 @@ Running the Tests:
 1)Tests without Facade Design Pattern
 
 Download Zip and run EbayPurchase_without_PurchaseFaceade_Tests.cs
+https://github.com/augustapop/FacadeEbay/blob/master/FacadeEbay/EbayPurchase_without_PurchaseFaceade_Tests.cs
 
 2)Tests with Facade Design Pattern
 
 Download Zip and run EbayPurchase_Facade_Tests.cs
+https://github.com/augustapop/FacadeEbay/blob/master/FacadeEbay/EbayPurchase_Facade_Tests.cs
 
 The classes and objects participating in this pattern are:
 
