@@ -12,11 +12,20 @@ Ready Scenarios:
 Steps:
 
 1)Navigate to Item’s Page
+
 2)Validate the price
+
 3)Click Buy It Now button
+
 4)On the SignIn page, click Continue as a guest
 
+5)Fill Shipping Info
 
+6)Validate Subtotal price
+
+7) Click Continue button
+
+8) Validate Total price
 
 
 The classes and objects participating in this pattern are:
