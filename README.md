@@ -29,7 +29,9 @@ Steps:
 8) Validate Total price
 
 
+
 Running the Tests:
+
 1)Tests without Facade Design Pattern
 
 Download Zip and run EbayPurchase_without_PurchaseFaceade_Tests.cs
